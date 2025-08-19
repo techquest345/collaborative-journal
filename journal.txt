@@ -21,3 +21,5 @@ the login window came up again and I had to enter login credentials again
 storing credentials securely is a problem that needs to be solved ASAP 
 
 which credential storing option should I use??
+I have a two options
+GPG, freedesktop.org secret service API
