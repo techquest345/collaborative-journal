@@ -1,2 +1,2 @@
 # collaborative-journal
-using this repo. just for practice 
+**using this repo. just for practice** 
