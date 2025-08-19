@@ -6,9 +6,9 @@ and when I tried to push the changes to the remote repository
 I came across an error. which did not let me do my job
 so I searched online and found git-credential-manager
 did some reading installed and configured it. 
-now when I pushed the code a login window popped up
-I entered the credentials and boom it worked this time
-I finally pushed code to a remote repository for the first time.
+now when I pushed the code a login window popped up 
+I entered the credentials and boom it worked this time 
+I finally pushed code to a remote repository for the first time.  
 this file is to check if the credentials are stored correctly
 and that I do not need to enter the credentials again and again.
 let's hope for the best
