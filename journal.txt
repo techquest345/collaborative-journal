@@ -15,3 +15,7 @@ let's hope for the best
 
 it did work and I merged a pull request as well
 working on a second branch now 
+
+it worked BUT only for sometime, before the second commit
+the login window came up again and I had to enter login credentials again 
+storing credentials securely is a problem that needs to be solved ASAP 
