@@ -11,7 +11,5 @@ I entered the credentials and boom it worked this time
 I finally pushed code to a remote repository for the first time.
 this file is to check if the credentials are stored correctly
 and that I do not need to enter the credentials again and again.
-let's hope for the best
 
-it did work and I merged a pull request as well
-working on a second branch now 
+let's hope for the best
