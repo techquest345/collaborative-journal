@@ -18,3 +18,4 @@ working on a second branch now
 
 it worked BUT only for sometime, before the second commit
 the login window came up again and I had to enter login credentials again 
+storing credentials securely is a problem that needs to be solved ASAP 
